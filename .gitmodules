@@ -1,0 +1,3 @@
+[submodule "eth-machine-learning-summary"]
+	path = eth-machine-learning-summary
+	url = https://github.com/ssinhaleite/eth-machine-learning-summary.git
